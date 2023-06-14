@@ -1,0 +1,19 @@
+.container {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#logoContainer {
+    margin-top: 20px;
+}
+
+#logo {
+    max-width: 200px;
+}
+
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
